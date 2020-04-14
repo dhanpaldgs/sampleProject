@@ -4,6 +4,7 @@ public class SampleApplication {
 	public static void main(String[] args) {
 		System.out.println("Sample Application");
 		System.out.println("Sample name");
+		System.out.println("Third line");
 	}
 
 }
